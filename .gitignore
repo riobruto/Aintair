@@ -361,3 +361,26 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+library/
+
+# Art assets must be ignored
+
+textures/
+sound/
+scenes/
+resources/
+prefabs/
+models/
+materials/
+animations/
+temp/
+*.asset
+*.png
+*.jpg
+*.mixer
+*.prefab
+
+
+
