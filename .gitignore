@@ -364,6 +364,7 @@ FodyWeavers.xsd
 
 
 library/
+UserSettings/
 
 # Art assets must be ignored
 
