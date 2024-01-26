@@ -73,8 +73,7 @@ crashlytics-build.properties
 
 library/
 UserSettings/
-Packages/
-ProjectSettings/
+
 
 # Art assets must be ignored
 
