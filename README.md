@@ -1,6 +1,6 @@
 # Aintair is a turret-based tower defense game made in Unity. 
 
-Aintair is an simple tower-defense game. You control an anti aircraft gun in order to protect the buildings from the bombs.
+Aintair is an simple shooter game. You control an anti aircraft gun in order to protect the buildings from the bombs.
 Aim the crosshair in the center of the circle and destroy the glowing jets.
 [Play the game here!](https://riobruto.itch.io/aintair)
 
